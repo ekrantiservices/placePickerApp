@@ -1,0 +1,13 @@
+{
+    "ios": {
+        "key": "AIzaSyDeH9890HoAS47bVkYpkzR6amspgl2kDDI"
+    },
+    "android": {
+        "key": "AIzaSyDeH9890HoAS47bVkYpkzR6amspgl2kDDI"
+    },
+    "browser": {
+        "key": "https://maps.googleapis.com/maps/api/staticmap?center=37.430610,%20-121.972090&zoom=17&size=400x400&key=AIzaSyDeH9890HoAS47bVkYpkzR6amspgl2kDDI"
+    },
+    "location": true,
+    "images": true
+}
